@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CandyDestroyer.cs" />
+     <Compile Include="Assets\CandyHolder.cs" />
      <Compile Include="Assets\Pusher.cs" />
      <Compile Include="Assets\Shooter.cs" />
  <Reference Include="UnityEngine.UI">
