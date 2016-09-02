@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{800574D5-5D6B-A53E-82A6-306B746D44C1}") = "Candy Dozer", "Assembly-CSharp.csproj", "{4A0DC2C0-88F9-0B2E-BB04-1DD33F5F7DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A0DC2C0-88F9-0B2E-BB04-1DD33F5F7DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0DC2C0-88F9-0B2E-BB04-1DD33F5F7DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0DC2C0-88F9-0B2E-BB04-1DD33F5F7DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0DC2C0-88F9-0B2E-BB04-1DD33F5F7DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
